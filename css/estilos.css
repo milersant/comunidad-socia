@@ -1,10 +1,4 @@
-@font-face {
-    font-family: "mifuente";
-    src: url('../font/Organa-Light.eot  ');
-    src: local('Organa Light'), local('Organa-Light');
-    font-weight: 300;
-    font-style: normal;
-}
+
 
 .carousel-item{
     width: 100%;
@@ -130,15 +124,6 @@
   text-shadow: 10px 10px 20px rgb(83, 0, 0);
 }
 
-
-
-
-
-  
-  
-
-
-
 html{
     padding: 0;
     margin: 0;
@@ -167,7 +152,7 @@ aside{
     color: rgb(26, 6, 6);
     text-align: center;
     font-size: 50px;
-    font-family:'mifuente' ;
+    font-family: 'Playfair Display', serif ;
     max-width: 100%;
 }
 .logo{
@@ -176,7 +161,7 @@ position: absolute;
 }
 h2{
     text-align: center;
-    font-family: "mifuente";
+    font-family: 'Playfair Display', serif;
     color: white;
     font-size: 30px;
     padding: 5px 0 5px 20px;
@@ -345,16 +330,16 @@ h4{
 }
 h3{
     text-align: center;
-    font-family: "mifuete";
+    font-family: 'Playfair Display', serif;
 }
 
 h5{
     color: black;
     text-align: center;
-    font-family: "mifuente";
+    font-family: 'Playfair Display', serif;
 }
 p{
-    color: black;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-family: 'Dancing Script', cursive;
 }
@@ -364,13 +349,6 @@ p{
     background-color: #c0392b;
     width: 100%;
 }
-.m2{
-    background-color: #16a085;
-}
-.m3{
-    background-color: gold;
-}
-
 img{
     
     max-width: 100%;
