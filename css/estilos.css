@@ -359,13 +359,10 @@ img{
     
     max-width: 100%;
 }
-footer{
-  color: #ffffff;
-  background:rgba(2, 0, 110, 0.8);
-}
+
 footer{
   text-align: center;
-  
+  color: black;  
 }
 .icono{
   width: 45px;
